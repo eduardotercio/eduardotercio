@@ -10,8 +10,8 @@ Sou programador e estou atualmente à procura de algum estágio ou trabalho, de 
 - 📚 Estudo por fora cursos sobre desenvolvimento Android
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edu37&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu37&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=edu37&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu37&layout=compact&langs_count=100&theme=dracula"/>
 </div>
 
 ##
