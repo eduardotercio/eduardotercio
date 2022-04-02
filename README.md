@@ -1,6 +1,6 @@
 # Olá 👋
 
-#### Meu nome é Eduardo Tercio ✌
+### Meu nome é Eduardo Tercio ✌
 
 Sou programador e estou atualmente à procura de algum estágio ou trabalho, de preferência na área mobile com android nativo
 
