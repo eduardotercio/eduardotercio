@@ -2,7 +2,7 @@
 
 ### Meu nome é Eduardo Tercio ✌
 
-Sou programador e estou atualmente à procura de algum estágio ou trabalho, de preferência na área mobile com android nativo.
+Sou programador e estou atualmente trabalhando como desenvolvedor Android na empresa Toolsty. 
 
 
 - 🏡 Morador da cidade de Quixadá-Ce/Brasil
