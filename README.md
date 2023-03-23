@@ -2,7 +2,7 @@
 
 ### Meu nome é Eduardo Tercio ✌
 
-Sou programador e estou atualmente trabalhando como desenvolvedor Android na empresa Toolsty. 
+Sou programador e estou atualmente trabalhando no cargo de Engenheiro de Software na empresa Mobills. 
 
 
 - 🏡 Morador da cidade de Quixadá-Ce/Brasil
