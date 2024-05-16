@@ -1,13 +1,14 @@
-# Olá 👋
+# Hi 👋
 
-### Meu nome é Eduardo Tercio ✌
+### My name is Eduardo Tercio ✌
 
-Sou Engenheiro de Software profissional com ênfase em desenvolvimento Android nativo para aparelhos móveis. 
+I'm Android Software Engineer. 
 
 
-- 🏡 Morador da cidade de Quixadá-Ce/Brasil.
-- 📚 Estudo cursos sobre desenvolvimento Android e Inglês.
-- 👨‍💻 Programador com 2 anos de experiência profissional.
+- 🏡 I am from Brazil.
+- 📚 Studying and working on android projects.
+- 📚 Advanced level on English.
+- 👨‍💻 Developer with over 2 years of professional experience.
 
 - <div style="display: inline_block">
   <img align="center" alt="Eduardo-Android" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
