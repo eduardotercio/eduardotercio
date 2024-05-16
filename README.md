@@ -7,7 +7,7 @@ I'm Android Software Engineer.
 
 - 🏡 I am from Brazil.
 - 📚 Studying and working on android projects.
-- 📚 Advanced level on English.
+- 📚 Advanced level of English.
 - 👨‍💻 Developer with over 2 years of professional experience.
 
 - <div style="display: inline_block">
