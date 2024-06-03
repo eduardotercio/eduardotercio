@@ -5,10 +5,10 @@
 I'm Android Software Engineer. 
 
 
-- 🏡 I am from Brazil.
-- 📚 Studying and working on android projects.
-- 📚 Advanced level of English.
 - 👨‍💻 Developer with over 2 years of professional experience.
+- 📚 Advanced level of English.
+- 📚 Studying and working on android projects.
+- 🏡 I am from Brazil.
 
 - <div style="display: inline_block">
   <img align="center" alt="Eduardo-Android" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
