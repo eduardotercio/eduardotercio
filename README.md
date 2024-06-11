@@ -11,10 +11,10 @@ I'm Android Software Engineer.
 - 🏡 I am from Brazil.
 
 - <div style="display: inline_block">
-  <img align="center" alt="Eduardo-Android" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
+  <img align="center" alt="Eduardo-Android" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
   <img align="center" alt="Eduardo-Kotlin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+  <img align="center" alt="Eduardo-C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" />
   <img align="center" alt="Eduardo-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Eduardo-C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 </div><br>
 
 <div align="center">
