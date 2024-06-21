@@ -18,7 +18,7 @@ I'm Android Software Engineer.
 </div><br>
 
 <div align="center">
-  <a href="https://github.com/edu37">
+  <a href="https://github.com/eduardotercio">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eduardotercio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardotercio&layout=compact&langs_count=37&theme=dracula"/>
 </div>
