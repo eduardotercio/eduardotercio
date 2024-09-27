@@ -5,7 +5,7 @@
 I'm Android Software Engineer. 
 
 
-- 👨‍💻 Developer with over 3 years of professional experience.
+- 👨‍💻 Developer with 3 years of professional experience.
 - 📚 Advanced level of English.
 - 📚 Studying and working on android projects.
 - 🏡 I am from Brazil.
